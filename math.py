@@ -12,3 +12,6 @@ def multiply(x,y):
   #div
 def divide(x,y):
  pass
+ 
+def square(x,y):
+ return pass
